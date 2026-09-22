@@ -1,6 +1,4 @@
-# svitesttool
-SVI Railway Testing tool
-# SVIRAIL Spring Boot conversion foundation
+# SVAGARAIL Spring Boot conversion foundation
 
 ## Run
 
@@ -20,4 +18,3 @@ Example body:
 ## Next conversion step
 
 Implement a `DesktopAutomationGateway` in a dedicated Windows runner service. The runner must accept an authenticated job, execute only approved test configurations, collect screenshots/timing, and return results. Do not add desktop-control code to the web server process.
-
