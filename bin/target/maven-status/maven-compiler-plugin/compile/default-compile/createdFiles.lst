@@ -1,0 +1,10 @@
+com\svi\svagarail\service\DesktopAutomationGateway.class
+com\svi\svagarail\model\ExecutionResult$Status.class
+com\svi\svagarail\service\RouteExecutionService.class
+com\svi\svagarail\model\ExecutionResult.class
+com\svi\svagarail\service\SimulationGateway.class
+com\svi\svagarail\config\RouteConfigParser.class
+com\svi\svagarail\model\RouteOperation.class
+com\svi\svagarail\SvagarailApplication.class
+com\svi\svagarail\model\RouteDefinition.class
+com\svi\svagarail\web\RouteController.class
